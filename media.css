@@ -1,0 +1,15 @@
+@media (max-width:1200) {
+    ul.links.responsive {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+
+    body {
+  
+        position: relative;
+    }
+    
+  
+}
+
